@@ -34,7 +34,7 @@
 .todo-card {
     width: 300px; /* Adjust the width of the cards as needed */
     padding: 20px;
-    background-color: white;
+    background-color: rgb(218, 218, 218);
     border-radius: 8px;
     margin-bottom: 20px;
     border: 2px solid grey;
